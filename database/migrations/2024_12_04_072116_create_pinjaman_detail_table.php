@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->integer('pinjaman_id');
             $table->integer('buku_id');
-            $table->integer('jumlah');
+            $table->integer('jumlah'); 
             $table->timestamps();
         });
     }

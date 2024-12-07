@@ -12,5 +12,13 @@
                 <a href="#" class="nav-link"><i class="fas fa-fire"></i><span>Dashboard</span></a>
             </li>
         </li>
+        <li class="menu-header">Master</li>
+            <li>
+                <a href="/kategori" class="nav-link"><i class="fas fa-list"></i><span>Kategori</span></a>
+            </li>
+            <li>
+                <a href="#" class="nav-link"><i class="fas fa-list"></i><span>Kategori</span></a>
+            </li>
+        </li>
     </aside>
   </div>
